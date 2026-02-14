@@ -59,8 +59,6 @@ I combine development knowledge with QA practices to build reliable, scalable an
   <img src="https://skillicons.dev/icons?i=laravel" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </div>
 
 ---
@@ -69,6 +67,8 @@ I combine development knowledge with QA practices to build reliable, scalable an
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </div>
 
 - Test Case Design
@@ -76,54 +76,7 @@ I combine development knowledge with QA practices to build reliable, scalable an
 - Functional Testing
 - Agile Scrum
 - Mobile Automation (Appium)
-
----
-
-## 🚀 Featured Project – Logistics Management System (SAR)
-
-Full-stack web application designed to manage logistics operations and role-based workflows.
-
-### 🔧 Technologies Used:
-- Laravel (Backend)
-- Vue.js (Frontend)
-- MySQL
-- Tailwind CSS
-- Bootstrap
-- REST APIs
-- Authentication & Authorization
-
-### 🎯 Key Features:
-- Role-based access control
-- CRUD operations
-- Modular architecture
-- Database design & optimization
-- Clean and responsive UI
-- API integration
-
-This project demonstrates my ability to structure, develop and manage scalable web systems using modern technologies.
-
----
-
-## 📊 Data & Analytics Experience
-
-- Web Scraping using Python
-- Data Cleaning & Transformation
-- Dashboard creation with Power BI
-- Big Data processing concepts (Hadoop – MapReduce)
-
----
-
-## 💼 Professional Experience
-
-**IT Support Intern – DTIC, Universidad Mayor de San Simón (2024 – Present)**  
-- Hardware & software troubleshooting  
-- Network configuration  
-- Technical support for staff and students  
-
-**Laboratory Assistant – UMSS (2023)**  
-- Technical support for academic environments  
-- Equipment maintenance  
-- Assistance in programming practices  
+- Version Control (Git & GitHub)
 
 ---
 
@@ -136,15 +89,21 @@ This project demonstrates my ability to structure, develop and manage scalable w
 
 ---
 
-## 📈 GitHub Stats – Pac-Man Style
+## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Streak Graph estilo Pac-Man -->
-  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph Pac-Man" />
-
-  <!-- Trophy Graph estilo Pac-Man -->
-  <img src="https://github-profile-trophy.vercel.app?username=JHERICO-AJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph Pac-Man" />
+  <!-- Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <!-- Trophy Graph -->
+  <img src="https://github-profile-trophy.vercel.app?username=JHERICO-AJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
