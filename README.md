@@ -15,17 +15,15 @@
 
 Systems Engineer with strong interest in **Software Quality Assurance and Full Stack Development**.
 
-I have experience in:
+Experienced in:
 
-- Manual Testing (Functional & Non-Functional)
+- Manual & Functional Testing
 - Test Case Design & Bug Reporting
-- Mobile Automation Testing with Appium
+- Mobile Automation Testing (Appium)
 - Agile Scrum environments (JIRA, Trello)
-- Backend & Frontend Web Development
+- Full Stack Web Development
 - IT Support & Infrastructure troubleshooting
-- Data analysis using Python & Power BI
-
-I combine development knowledge with QA practices to build reliable, scalable and high-quality software solutions.
+- Data analysis with Python & Power BI
 
 ---
 
@@ -63,7 +61,7 @@ I combine development knowledge with QA practices to build reliable, scalable an
 
 ---
 
-## 🧪 QA & Project Tools
+## 🧪 QA & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
@@ -71,29 +69,13 @@ I combine development knowledge with QA practices to build reliable, scalable an
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </div>
 
-- Test Case Design
-- Bug Documentation
-- Functional Testing
-- Agile Scrum
-- Mobile Automation (Appium)
-- Version Control (Git & GitHub)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Test Automation
-- FlutterFlow
-- Supabase
-- Improving English proficiency
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=onedark&no-frame=true&margin-w=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=onedark&no-frame=true&margin-w=10" height="150"/>
 </div>
 
 ---
@@ -105,7 +87,6 @@ I combine development knowledge with QA practices to build reliable, scalable an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman.svg">
 </picture>
-
 
 ---
 
