@@ -83,9 +83,10 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JHERICO-AJ&show_icons=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact" height="150"/>
 </div>
+
 
 
 
