@@ -89,7 +89,6 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 
 ---
 
-# 🟡 Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
