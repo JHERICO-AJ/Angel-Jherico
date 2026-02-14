@@ -81,12 +81,12 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 </div>
 
 <br>
-
-
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Most Used Languages" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
