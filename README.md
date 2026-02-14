@@ -74,7 +74,7 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 ---
 
 
-## 📊 GitHub Activity & Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="220" />
