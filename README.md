@@ -73,21 +73,21 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 
 ---
 
-# 📊 GitHub Activity & Stats
+
+## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=dracula&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=flat" height="150"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHERICO-AJ&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&langs_count=6&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula" height="150"/>
 </div>
 
----
 
 
 <picture>
