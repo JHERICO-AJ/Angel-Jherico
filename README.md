@@ -82,11 +82,7 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 
 <br>
 
-<div align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?username=JHERICO-AJ" height="150"/>
-  <img src="https://stats.dooboo.io/api/github-trophies?username=JHERICO-AJ" height="150"/>
-</div>
-<img src="https://stats.dooboo.io/api/github-top-languages?username=JHERICO-AJ" height="150"/>
+
 
 
 
