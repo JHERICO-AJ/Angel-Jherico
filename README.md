@@ -77,11 +77,6 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=flat" height="150"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="220" />
 </div>
 
