@@ -92,8 +92,8 @@ I combine development knowledge with QA practices to build reliable, scalable an
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=dracula" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=dracula" />
 </div>
 
 ---
@@ -101,10 +101,11 @@ I combine development knowledge with QA practices to build reliable, scalable an
 ## 🟡 Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman.svg">
 </picture>
+
 
 ---
 
