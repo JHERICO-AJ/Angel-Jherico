@@ -15,16 +15,6 @@
 
 Systems Engineer with strong interest in **Software Quality Assurance and Full Stack Development**.
 
-I have experience in:
-
-- Manual Testing (Functional & Non-Functional)
-- Test Case Design & Bug Reporting
-- Mobile Automation Testing with Appium
-- Agile Scrum environments (JIRA, Trello)
-- Backend & Frontend Web Development
-- IT Support & Infrastructure troubleshooting
-- Data analysis using Python & Power BI
-
 I combine development knowledge with QA practices to build reliable, scalable and high-quality software solutions.
 
 ---
@@ -63,7 +53,7 @@ I combine development knowledge with QA practices to build reliable, scalable an
 
 ---
 
-## 🧪 QA & Project Tools
+## 🧪 QA & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
@@ -71,33 +61,18 @@ I combine development knowledge with QA practices to build reliable, scalable an
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </div>
 
-- Test Case Design
-- Bug Documentation
-- Functional Testing
-- Agile Scrum
-- Mobile Automation (Appium)
-- Version Control (Git & GitHub)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Test Automation
-- FlutterFlow
-- Supabase
-- Improving English proficiency
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
-  <!-- Trophy Graph -->
-  <img src="https://github-profile-trophy.vercel.app?username=JHERICO-AJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=dracula" height="150"/>
 </div>
+
+---
+
+## 🟡 Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
