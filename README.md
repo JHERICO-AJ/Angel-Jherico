@@ -75,17 +75,19 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 
 
 ## 📊 Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula" height="220" />
 </div>
 
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula&rank_icon=github&border_radius=10&count_private=true" height="170" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula&langs_count=6&border_radius=10" height="170" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula&langs_count=6&border_radius=10&count_private=true" height="170" alt="Most Used Languages" />
 </div>
+
+  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JHERICO-AJ/JHERICO-AJ/output/pacman-contribution-graph-dark.svg">
