@@ -59,6 +59,8 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
   <img src="https://skillicons.dev/icons?i=laravel" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
   <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+
 </div>
 
 ---
