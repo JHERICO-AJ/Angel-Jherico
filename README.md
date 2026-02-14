@@ -82,10 +82,15 @@ I combine development knowledge with QA methodologies to build reliable, scalabl
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula&hide_border=false&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JHERICO-AJ&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHERICO-AJ&layout=compact&theme=dracula&langs_count=6&border_radius=10" height="170" alt="Most Used Languages" />
+  
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=JHERICO-AJ&theme=dracula&border_radius=10" height="170" alt="GitHub Streak" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=JHERICO-AJ&theme=onedark&no-frame=false&margin-w=10" height="170" alt="GitHub Trophies" />
 </div>
 
 <picture>
